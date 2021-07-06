@@ -1,5 +1,5 @@
-microbit-heart_pounding.md
+microbit-heart_pounding.md  
 
-heart pounding
-  心臓がドキドキします。
-  My heart is pounding.
+heart pounding  
+  心臓がドキドキします。  
+  My heart is pounding.  
