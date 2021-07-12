@@ -13,3 +13,7 @@ When the timer is off, the game is over and whoever is holding the potato has lo
 
 Watch the tutorial on the MakeCode YouTube channel(https://www.youtube.com/watch?v=xLEy1B_gWKY).  
 MakeCodeYouTubeチャンネルのチュートリアルをご覧ください。  
+
+イマイチ、このゲームの面白さがわからなかったので、改造点が見つからず、チュートリアルそのままになったしまいました。  
+I didn't find the fun of this game, so I couldn't find any modifications and left the tutorial as it was.  
+
