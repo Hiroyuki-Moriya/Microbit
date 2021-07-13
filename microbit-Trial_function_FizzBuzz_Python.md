@@ -50,6 +50,8 @@ count = 0
 def on_button_pressed_a():
     global count
     count += 1
+    basic.show_icon(IconNames.HEART)
+    basic.clear_screen()
 input.on_button_pressed(Button.A, on_button_pressed_a)
 
 def on_button_pressed_b():
