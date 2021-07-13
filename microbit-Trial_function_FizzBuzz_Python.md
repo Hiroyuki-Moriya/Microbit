@@ -38,7 +38,7 @@ microbit-Trial_function_FizzBuzz_Python.md
         Returns the result.  
 
 ## Source code
-`
+```
 """
     Title  : Trial_function_FizzBuzz
     Version: 01
@@ -70,4 +70,4 @@ def FizzBuzz(num: number):
         if num % 5 == 0:
             txt = "Buzz"
     return txt
-`
+```
